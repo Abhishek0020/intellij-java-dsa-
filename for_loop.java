@@ -2,11 +2,12 @@
 //
 //public class for_loop {
 //    public static void main(String[] args) {
-//        Scanner sc=new Scanner(System.in);
+//        int num;
 //        System.out.println("enter the number : ");
-//        int n= sc.nextInt();
-//        for (int  i = 0; i <=n; i++) {
-//            System.out.println("hello world"+i);
+//        Scanner sc=new Scanner(System.in);
+//        num= sc.nextInt();
+//        for(int i=1;i<=10;i++){
+//            System.out.println(num*i);
 //        }
 //    }
 //}

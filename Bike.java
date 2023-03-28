@@ -1,14 +1,16 @@
-//abstract class Bike {
-//    abstract void run();
-//
-//    class honda extends Bike{
-//        void run() {
-//            System.out.println("bike is running : ");
+//public class Bike {
+//    void run(){
+//        System.out.println("running");
+//    }
+//    static class Honda extends Bike{
+//        void run(){
+//            System.out.println("running safely 60 km ");
 //        }
 //
-//        public  void main(String[] args) {
-//            Bike b=new honda();
+//        public static void main(String[] args) {
+//            Bike b=new Honda();
 //            b.run();
+//
 //        }
 //    }
 //
