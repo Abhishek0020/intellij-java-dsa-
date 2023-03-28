@@ -1,6 +1,9 @@
-//import oops.Interface;
+//package oops;
 //
-//public class dog implements Interface {
-//
+//public class dog  interface AnimalInterface {
+//      eat(){
+//          System.out.println("eating : ");
+//    }
+//    sleep(
+//    })
 //}
-//
